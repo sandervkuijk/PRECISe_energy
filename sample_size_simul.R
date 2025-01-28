@@ -13,7 +13,6 @@ library(Matrix)
 library(lqmm)
 
 
-
 # Sample characteristics based on PRECISe study
 setwd("L:/SPEC/ICU/RESEARCH/PRECISe/Analyses")
 load("PRECISeobjects_V1.0.RData")
